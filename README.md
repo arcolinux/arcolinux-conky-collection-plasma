@@ -1,0 +1,1 @@
+# ArcoLinux-Conky for plasma
