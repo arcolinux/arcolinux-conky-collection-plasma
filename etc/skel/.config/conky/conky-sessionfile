@@ -1,1 +1,1 @@
-conky -c ~/.config/conky/AUR-ArcoLinux-Plasma.conkyrc
+conky -c /home/erik/.config/conky/Arco-Redux-Plasma-LUA.conkyrc & sleep 1s
